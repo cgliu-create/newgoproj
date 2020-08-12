@@ -29,8 +29,10 @@ var (
 	user    = "cgliu-create"
 )
 ```
-use the command, go build lazy.go, to build the executable  
-
+use the following command to build the executable  
+```bash
+go build lazy.go
+```
 ## Flag Variables
 ```bash
 ./lazy
